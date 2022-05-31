@@ -19,4 +19,4 @@ The following machine learning algorithms were used for sentiment analysis:
 
 PowerBI from Microsoft was used as the business intelligence tool.
 
-Contributors: [Harish Balasubramaniam](https://github.com/harishb1407), Zeel Desai, Karishma Anklesaria
+Contributors: [Harish Balasubramaniam](https://www.linkedin.com/in/harish-balasubramaniam/), [Zeel Desai](https://www.linkedin.com/in/zeel-desai-555202180/), [Karishma Anklesaria](https://www.linkedin.com/in/karishma-anklesaria-72a5b320a/)
